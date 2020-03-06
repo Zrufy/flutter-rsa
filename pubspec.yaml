@@ -41,6 +41,8 @@ flutter:
         pluginClass: RsaPlugin
       linux:
         pluginClass: FastRsaPlugin
+      windows:
+        pluginClass: FastRsaPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
